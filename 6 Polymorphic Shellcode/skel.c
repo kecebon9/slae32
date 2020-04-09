@@ -1,0 +1,1 @@
+../share/skel.c
